@@ -1,3 +1,4 @@
+
 # ONSE
 One Nation Secure Election
 
@@ -7,15 +8,16 @@ In every election, the voting turnout is less than 50% in some areas. Voters not
 ## Solution:
 Our project contains two modules.
 
-### Voting
+### Voting:
 Through this module, we aim to build an online service portal which will be deployed across all the voting centers. When the respective voter goes to one of the service center,once he authenticates himself,his constituency ballot will be displayed where he can vote securely akin to the EVM'S. This portal will guarantee anonymity and prevents duplicate votes.
 
 ### Registration and Results:
 Through this module, we will build a website deployed across all the general users. It will have the following features.
-**Registration Page**
+**Registration Page:**
 - Validation using aadhar APIs
 - Verification of age
-**Results Page**
+
+**Results Page:**
 - Realtime constituency wise analytics of voter turnout on the internet
 - Instant results after the election stops
 
