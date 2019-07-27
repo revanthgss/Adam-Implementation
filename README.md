@@ -23,3 +23,5 @@ Through this module, we will build a website deployed across all the general use
 - Instant results after the election stops
 
 All the data created during registration and voting will be sent through their respective smart contracts and then stored in a blockchain using Azure blockchain to ensure data security and validity.
+
+![Flow](./flow.png)
