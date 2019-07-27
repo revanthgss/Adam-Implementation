@@ -13,6 +13,7 @@ Through this module, we aim to build an online service portal which will be depl
 
 ### Registration and Results:
 Through this module, we will build a website deployed across all the general users. It will have the following features.
+
 **Registration Page:**
 - Validation using aadhar APIs
 - Verification of age
